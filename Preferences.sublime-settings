@@ -1,0 +1,16 @@
+{
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-twilight.tmTheme",
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"itg_small_tabs": true,
+	"show_encoding": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
