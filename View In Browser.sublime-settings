@@ -1,0 +1,23 @@
+{
+   "supportedBrowsers": {
+      "chrome": [
+      {
+        "osname": "posix",
+        "platform": "darwin",
+        "command": "open -a \"/Applications/Google Chrome.app\""
+      },
+         {
+            "osname": "posix",
+            "platform": "linux.*",
+            "command": "google-chrome"
+         },
+         {
+            "osname": "nt",
+            "platform": "win32",
+            "command": "%Local AppData%/Google/Chrome/Application/chrome.exe"
+         }
+      ]
+   },
+
+   "browser": "chrome"
+}

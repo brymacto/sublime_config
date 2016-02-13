@@ -6,5 +6,6 @@
   { "keys": ["super+d"], "command": "duplicate_line" },
   { "keys": ["super+shift+up"], "command": "swap_line_up" },
   { "keys": ["super+shift+down"], "command": "swap_line_down" },
-  { "keys": ["super+option+l"], "command": "reindent" }
+  { "keys": ["super+option+l"], "command": "reindent" },
+  { "keys": [ "f5" ], "command": "view_in_browser" }
 ]
