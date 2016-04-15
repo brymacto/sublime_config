@@ -4,8 +4,8 @@
   { "keys": ["super+shift+a"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
   { "keys": ["super++shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["super+d"], "command": "duplicate_line" },
-  { "keys": ["super+shift+up"], "command": "swap_line_up" },
-  { "keys": ["super+shift+down"], "command": "swap_line_down" },
+  { "keys": ["option+shift+up"], "command": "swap_line_up" },
+  { "keys": ["option+shift+down"], "command": "swap_line_down" },
   { "keys": ["super+option+l"], "command": "reindent" },
   { "keys": [ "f5" ], "command": "view_in_browser" }
 ]
